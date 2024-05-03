@@ -11,7 +11,8 @@ const config: Config = {
   url: 'https://euxtoncanoeclub.co.uk/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  // baseUrl: '/',
+  baseUrl: '/new_site/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -35,17 +36,11 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          // editUrl:
+          //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -81,11 +76,15 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Club',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'About',
+              to: '/docs/about',
+            },
+            {
+              label: 'Contact',
+              to: '/docs/contact',
             },
           ],
         },
@@ -98,7 +97,7 @@ const config: Config = {
             },
             {
               label: 'WhatsApp',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://chat.whatsapp.com/xyz',
             },
           ],
         },
