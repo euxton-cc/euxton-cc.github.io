@@ -36,8 +36,6 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          // editUrl:
-          //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
@@ -50,12 +48,11 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/ecc-social-card.jpg',
     navbar: {
       title: 'Euxton Canoe Club',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Euxton Canoe Club',
         src: 'img/logo.png',
       },
       items: [
