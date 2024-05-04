@@ -21,20 +21,20 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Wondering what type of equipment you need?',
-    image: require('@site/static/img/boats.jpg').default,
-    description: (
-      <>
-        We a wide range of boats to try out and experienced coaches to help you progress in your paddling journey.
-      </>
-    ),
-  },
-  {
     title: 'Don\'t know where to start?',
     image: require('@site/static/img/sprint.jpg').default,
     description: (
       <>
         Whether you have never been in a boat before or want to top up your existing skills - Euxton Canoe Club is the place for you.
+      </>
+    ),
+  },
+  {
+    title: 'Wondering what type of equipment you need?',
+    image: require('@site/static/img/boats.jpg').default,
+    description: (
+      <>
+        We have a wide range of boats to try out and experienced coaches to help you progress on your paddling journey.
       </>
     ),
   },
