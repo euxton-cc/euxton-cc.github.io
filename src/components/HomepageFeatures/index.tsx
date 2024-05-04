@@ -12,7 +12,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Have you ever wanted to try kayaking or canoeing?',
-    image: require('@site/static/img/whitewater.jpg').default,
+    image: require('@site/static/img/sunset-640x640.jpg').default,
     // Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
@@ -22,7 +22,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Don\'t know where to start?',
-    image: require('@site/static/img/sprint.jpg').default,
+    image: require('@site/static/img/whitewater-640x640.jpg').default,
     description: (
       <>
         Whether you have never been in a boat before or want to top up your existing skills - Euxton Canoe Club is the place for you.
@@ -31,7 +31,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Wondering what type of equipment you need?',
-    image: require('@site/static/img/boats.jpg').default,
+    image: require('@site/static/img/boats-640x640.jpg').default,
     description: (
       <>
         We have a wide range of boats to try out and experienced coaches to help you progress on your paddling journey.
