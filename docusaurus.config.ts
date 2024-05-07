@@ -11,13 +11,13 @@ const config: Config = {
   url: 'https://euxtoncanoeclub.co.uk/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  // baseUrl: '/',
-  baseUrl: '/new_site/',
+  baseUrl: '/',
+  // baseUrl: '/new_site/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'euxton-cc', // Usually your GitHub org/user name.
+  projectName: 'euxton-cc.github.io', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
