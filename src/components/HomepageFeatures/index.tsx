@@ -12,7 +12,6 @@ const FeatureList: FeatureItem[] = [
   {
     title: 'Have you ever wanted to try kayaking or canoeing?',
     image: require('@site/static/img/sunset-640x640.jpg').default,
-    // Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
         We can help you out.
