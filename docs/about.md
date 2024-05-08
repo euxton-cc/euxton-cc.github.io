@@ -14,12 +14,14 @@ From October to April we have regular pool sessions at **[All Seasons Leisure Ce
 
 ## Upcoming sessions
 
-- Sunday, 5th May 2024 at 1.30pm on water 2pm
+- ~~Sunday, 5th May 2024 at 1.30pm on water 2pm~~
 - Sunday, 19th May 2024 at 1.30pm on water 2pm
 - Friday, 24th May 2024 at 6pm
 - Sunday, 2nd June 2024 at 1.30pm on water 2pm
 - Friday, 7th June 2024 at 6pm
 - Sunday, 16th June 2024 at 1.30pm on water 2pm
+- Friday, 21th June 2024 at 6pm
+- Sunday, 30th June 2024 at 1.30pm on water 2pm
 
 ## What you'll need
 
