@@ -14,18 +14,13 @@ From October to April we have regular pool sessions at **[All Seasons Leisure Ce
 
 ## Upcoming sessions
 
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=UTC&bgcolor=%23ffffff&src=Y2MzYWFjZmU4YmU4OTA3NjJmZTgwY2U2Y2MzMTk0NjAxNmYwNmUxZDNjYjdiZWZjZDVlYjVlZWRiMDQyNjczOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=ZW4udWsjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23E67C73&color=%230B8043" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 [Google Calendar](https://calendar.google.com/calendar/embed?src=cc3aacfe8be890762fe80ce6cc31946016f06e1d3cb7befcd5eb5eedb0426738%40group.calendar.google.com&ctz=UTC)
 
-- Friday, 16th August 2024 at 6pm
-- Sunday, 25th August 2024 at 1.30pm on water 2pm
-- Friday, 30th August 2024 at 6pm
+Sunday - arrive 1:45pm, on the water at 2pm
 
-- Sunday, 8th September 2024 at 1.30pm on water 2pm
-- Friday, 13th September 2024 at 6pm
-- Sunday, 22nd September 2024 at 1.30pm on water 2pm
-- Friday, 27th September 2024 at 6pm
-
-- Sunday, 6th October 2024 at 1.30pm on water 2pm
+Friday - arrive 5:45pm, on the water at 6pm
 
 ## What you'll need
 
