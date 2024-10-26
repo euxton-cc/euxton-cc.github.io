@@ -10,7 +10,7 @@ We are Euxton Canoe Club. We are a friendly, family orientated, paddle sports cl
 
 We meet alternate Sundays and Fridays from April to October at **[Yarrow Valley Country Park](https://maps.app.goo.gl/LvRnQ5kEGA3SgZzN7)** near Chorley, Lancashire.
 
-From October to April we have regular pool sessions at **[All Seasons Leisure Centre](https://maps.app.goo.gl/E5UqYivE3S6oBrUr5)** Chorley.
+From October to April we have regular pool sessions at **[Tarleton Swim School](https://maps.app.goo.gl/4enmc3ohuyzf3y6C7)**.
 
 ## Upcoming sessions
 
