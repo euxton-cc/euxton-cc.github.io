@@ -12,9 +12,8 @@ If your interested in joining the club, you will need to complete a membership f
 
 ## Constitution
 
-[Download](./documents/ECC-constitution-v1.0.pdf)
+[Download](./documents/ECC-constitution-v2.0.pdf)
 
 ## Data privacy statement
 
 [Download](./documents/Data-Privacy-statement.pdf)
-
