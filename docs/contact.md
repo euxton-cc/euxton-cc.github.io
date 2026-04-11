@@ -14,8 +14,10 @@ sidebar_position: 2
 
 ## Commitee members
 
-- **Chair** ?
-- **Secretary** ?
-- **Treasurer** ?
-- **Information Officer** ?
-
+- **Chair** Karl Winrow
+- **Secretary** and **Information Officer** Matthew Winder
+- **Treasurer** Gail Halton
+- **Safety Officer** Pete McKale, Josh Gorvett (shadowing)
+- **Welfare Officers** Karl Winrow, Pete McKale
+- **Equipment Officers** – Russ Coppin, Jason Spencer
+- **Junior Representatives** – Annabel Halton, Thomas Winder
