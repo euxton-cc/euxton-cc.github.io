@@ -6,9 +6,9 @@ sidebar_position: 3
 
 ## Membership form
 
-If your interested in joining the club, you will need to complete a membership form which can be found below. Once you have downloaded and printed out the form, please complete it and hand it to either the club secretary or one of the club coaches.
+If your interested in joining the club, you will need to complete a membership form which can be found below.
 
-[Download](./documents/Membership-Form-2024.docx)
+[Membership form](https://forms.cloud.microsoft/r/gkDSu2J311)
 
 ## Constitution
 
