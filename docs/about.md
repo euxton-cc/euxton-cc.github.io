@@ -14,9 +14,9 @@ From October to April we have regular pool sessions at **[Tarleton Swim School](
 
 ## Upcoming sessions
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=UTC&bgcolor=%23ffffff&src=Y2MzYWFjZmU4YmU4OTA3NjJmZTgwY2U2Y2MzMTk0NjAxNmYwNmUxZDNjYjdiZWZjZDVlYjVlZWRiMDQyNjczOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=ZW4udWsjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23E67C73&color=%230B8043" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=cc3aacfe8be890762fe80ce6cc31946016f06e1d3cb7befcd5eb5eedb0426738%40group.calendar.google.com&ctz=Europe%2FLondon" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-[Google Calendar](https://calendar.google.com/calendar/embed?src=cc3aacfe8be890762fe80ce6cc31946016f06e1d3cb7befcd5eb5eedb0426738%40group.calendar.google.com&ctz=UTC)
+[Google Calendar](https://calendar.google.com/calendar/embed?src=cc3aacfe8be890762fe80ce6cc31946016f06e1d3cb7befcd5eb5eedb0426738%40group.calendar.google.com&ctz=Europe%2FLondon)
 
 Sunday - arrive 1:45pm, on the water at 2pm
 
