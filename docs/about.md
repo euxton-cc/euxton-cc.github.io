@@ -14,7 +14,7 @@ From October to April we have regular pool sessions at **[Tarleton Swim School](
 
 ## Upcoming sessions
 
-<iframe src="https://calendar.google.com/calendar/embed?src=cc3aacfe8be890762fe80ce6cc31946016f06e1d3cb7befcd5eb5eedb0426738%40group.calendar.google.com&ctz=Europe%2FLondon" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=cc3aacfe8be890762fe80ce6cc31946016f06e1d3cb7befcd5eb5eedb0426738%40group.calendar.google.com&ctz=Europe%2FLondon&wkst=2&showPrint=0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 [Google Calendar](https://calendar.google.com/calendar/embed?src=cc3aacfe8be890762fe80ce6cc31946016f06e1d3cb7befcd5eb5eedb0426738%40group.calendar.google.com&ctz=Europe%2FLondon)
 
