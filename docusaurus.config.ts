@@ -1,109 +1,114 @@
-import {themes as prismThemes} from 'prism-react-renderer';
-import type {Config} from '@docusaurus/types';
-import type * as Preset from '@docusaurus/preset-classic';
+import { themes as prismThemes } from "prism-react-renderer";
+import type { Config } from "@docusaurus/types";
+import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
-  title: 'Euxton Canoe Club',
-  tagline: 'Welcome to your local, friendly paddle-sports club',
-  favicon: 'img/favicon.ico',
+  title: "Euxton Canoe Club",
+  tagline: "Welcome to your local, friendly paddle-sports club",
+  favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: 'https://euxtoncanoeclub.co.uk/',
+  url: "https://euxtoncanoeclub.co.uk/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: "/",
   // baseUrl: '/new_site/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'euxton-cc', // Usually your GitHub org/user name.
-  projectName: 'euxton-cc.github.io', // Usually your repo name.
+  organizationName: "euxton-cc", // Usually your GitHub org/user name.
+  projectName: "euxton-cc.github.io", // Usually your repo name.
 
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: "throw",
+
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: "warn",
+    },
+  },
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: "en",
+    locales: ["en"],
   },
 
   presets: [
     [
-      'classic',
+      "classic",
       {
         docs: {
-          sidebarPath: './sidebars.ts',
+          sidebarPath: "./sidebars.ts",
         },
         blog: {
           showReadingTime: true,
         },
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: "./src/css/custom.css",
         },
       } satisfies Preset.Options,
     ],
   ],
 
   themeConfig: {
-    image: 'img/ecc-social-card.jpg',
+    image: "img/ecc-social-card.jpg",
     navbar: {
-      title: 'Euxton Canoe Club',
+      title: "Euxton Canoe Club",
       logo: {
-        alt: 'Euxton Canoe Club',
-        src: 'img/logo.png',
+        alt: "Euxton Canoe Club",
+        src: "img/logo.png",
       },
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: 'About',
+          type: "docSidebar",
+          sidebarId: "tutorialSidebar",
+          position: "left",
+          label: "About",
         },
         {
-          to: '/blog',
-          label: 'Blog',
-          position: 'left'
+          to: "/blog",
+          label: "Blog",
+          position: "left",
         },
       ],
     },
     footer: {
-      style: 'dark',
+      style: "dark",
       links: [
         {
-          title: 'Club',
+          title: "Club",
           items: [
             {
-              label: 'About',
-              to: '/docs/about',
+              label: "About",
+              to: "/docs/about",
             },
             {
-              label: 'Contact',
-              to: '/docs/contact',
+              label: "Contact",
+              to: "/docs/contact",
             },
           ],
         },
         {
-          title: 'Community',
+          title: "Community",
           items: [
             {
-              label: 'Facebook',
-              href: 'https://www.facebook.com/groups/euxtoncanoeclub',
+              label: "Facebook",
+              href: "https://www.facebook.com/groups/euxtoncanoeclub",
             },
             {
-              label: 'WhatsApp',
-              href: 'https://chat.whatsapp.com/xyz',
+              label: "WhatsApp",
+              href: "https://chat.whatsapp.com/xyz",
             },
           ],
         },
         {
-          title: 'More',
+          title: "More",
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
+              label: "Blog",
+              to: "/blog",
             },
           ],
         },
