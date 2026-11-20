@@ -16,21 +16,18 @@ jobs:
       - run: pnpm test
 
   build:
-    name: Build Docusaurus
+    name: Build site
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 20
-          cache: npm
+      - uses: actions/checkout@v7
+
+      - uses: pnpm/setup@v3
 
       - name: Install dependencies
-        run: npm ci
+        run: pnpm ci
+
       - name: Build website
-        run: npm run build
+        run: pnpm run build
 
       - name: Upload Build Artifact
         uses: actions/upload-pages-artifact@v3
