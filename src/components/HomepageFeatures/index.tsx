@@ -12,12 +12,12 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: "Have you ever wanted to try kayaking or canoeing?",
-    image: require("@site/static/img/sunset-640x640.jpg").default,
+    image: "/img/sunset-640x640.jpg",
     description: <>We can help you out.</>,
   },
   {
     title: "Don't know where to start?",
-    image: require("@site/static/img/whitewater-640x640.jpg").default,
+    image: "/img/whitewater-640x640.jpg",
     description: (
       <>
         Whether you have never been in a boat before or want to top up your
@@ -27,7 +27,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: "Wondering what type of equipment you need?",
-    image: require("@site/static/img/boats-640x640.jpg").default,
+    image: "/img/boats-640x640.jpg",
     description: (
       <>
         We have a wide range of boats to try out and experienced coaches to help
