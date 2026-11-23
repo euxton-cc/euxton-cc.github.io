@@ -18,9 +18,11 @@ From October to April we have regular pool sessions at **[Tarleton Swim School](
 
 [Google Calendar](https://calendar.google.com/calendar/embed?src=cc3aacfe8be890762fe80ce6cc31946016f06e1d3cb7befcd5eb5eedb0426738%40group.calendar.google.com&ctz=Europe%2FLondon)
 
-Sunday - arrive 1:45pm, on the water at 2pm
+### Lake sessions - Yarrow Valley
 
-Friday - arrive 5:45pm, on the water at 6pm
+Sunday - arrive by 1:45pm, on the water at 2pm
+
+Friday - arrive by 5:45pm, on the water at 6pm
 
 ## What you'll need
 
