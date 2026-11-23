@@ -98,6 +98,10 @@ const config: Config = {
               href: "https://www.facebook.com/groups/euxtoncanoeclub",
             },
             {
+              label: "Instagram",
+              href: "https://www.instagram.com/euxtoncanoeclub/",
+            },
+            {
               label: "WhatsApp",
               href: "/docs/contact",
             },
