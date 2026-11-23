@@ -16,4 +16,4 @@ sidebar_position: 2
 
 ## WhatsApp
 
-We have ac lub WhatsApp group for current members only. Please request to join when you join the club.
+We have a club WhatsApp group for current members only. Please request access when you join the club.
