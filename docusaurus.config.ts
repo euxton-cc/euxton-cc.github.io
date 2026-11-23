@@ -81,10 +81,6 @@ const config: Config = {
           title: "Club",
           items: [
             {
-              label: "About",
-              to: "/docs/about",
-            },
-            {
               label: "Contact",
               to: "/docs/contact",
             },
