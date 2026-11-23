@@ -8,16 +8,12 @@ sidebar_position: 2
 
 [info@euxtoncanoeclub.co.uk](mailto:info@euxtoncanoeclub.co.uk)
 
-## Facebook group
+**[Commitee members](/docs/about)**
+
+## Facebook
 
 [Euxton Canoe Club](https://www.facebook.com/groups/euxtoncanoeclub)
 
-## Commitee members
+## WhatsApp
 
-- **Chair** Karl Winrow
-- **Secretary** and **Information Officer** Matthew Winder
-- **Treasurer** Gail Halton
-- **Safety Officer** Pete McKale, Josh Gorvett (shadowing)
-- **Welfare Officers** Karl Winrow, Pete McKale
-- **Equipment Officers** – Russ Coppin, Jason Spencer
-- **Junior Representatives** – Annabel Halton, Thomas Winder
+We have ac lub WhatsApp group for current members only. Please request to join when you join the club.

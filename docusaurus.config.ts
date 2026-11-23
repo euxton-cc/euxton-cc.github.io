@@ -84,6 +84,10 @@ const config: Config = {
               label: "Contact",
               to: "/docs/contact",
             },
+            {
+              label: "About",
+              to: "/docs/about",
+            },
           ],
         },
         {
@@ -95,7 +99,7 @@ const config: Config = {
             },
             {
               label: "WhatsApp",
-              href: "https://chat.whatsapp.com/xyz",
+              href: "/docs/contact",
             },
           ],
         },
